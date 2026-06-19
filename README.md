@@ -22,4 +22,4 @@ FiveM /me chat script for players to use
 
 # Support
 [I_AM_FULLYCRX Official Discord](https://discord.gg/6QchSKDY7j)
-[Iron Justice Roleplay Discord](https://discord.gg/YJXZagSzh7)
+[Iron Justice Roleplay Official Discord](https://discord.gg/YJXZagSzh7)
